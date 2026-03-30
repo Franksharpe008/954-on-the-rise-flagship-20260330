@@ -1,0 +1,28 @@
+{
+  "project": "954 On The Rise",
+  "repo": "https://github.com/Franksharpe008/954-on-the-rise-flagship-20260330",
+  "live_url": "https://954-on-the-rise-flagship-2026-03-30.vercel.app",
+  "deployment_url": "https://954-on-the-rise-flagship-2026-03-30-6y37jck2u.vercel.app",
+  "vercel_project_name": "954-on-the-rise-flagship-2026-03-30",
+  "commit": "e5f333d",
+  "local_build": {
+    "status": "passed",
+    "routes": [
+      "/",
+      "/tracks",
+      "/arcade",
+      "/visuals",
+      "/experience",
+      "/downloads",
+      "/contact"
+    ]
+  },
+  "local_http_checks": {
+    "routes_200": true,
+    "assets_200": true
+  },
+  "public_http_checks": {
+    "live_url_200": true,
+    "deployment_url_requires_auth": true
+  }
+}

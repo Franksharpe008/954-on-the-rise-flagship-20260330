@@ -1,10 +1,14 @@
 # 954 On The Rise
 
+Live site: https://954-on-the-rise-flagship-2026-03-30.vercel.app
+
 Vibrant music flagship with:
 
 - five downloadable one-minute songs for 954 On The Rise
 - a cinematic video-led hero
 - a playable splash gate
+- a fresh spoken intro voice
+- fresh campaign stills and motion loops
 - animated scroll surfaces and hover borders
 - a live capture form for new listeners and collaborators
 
