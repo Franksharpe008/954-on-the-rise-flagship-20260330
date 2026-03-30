@@ -4,7 +4,12 @@
   "live_url": "https://954-on-the-rise-flagship-2026-03-30.vercel.app",
   "deployment_url": "https://954-on-the-rise-flagship-2026-03-30-6y37jck2u.vercel.app",
   "vercel_project_name": "954-on-the-rise-flagship-2026-03-30",
-  "commit": "e5f333d",
+  "commit": "cc8e5ed",
+  "voice_refresh": {
+    "engine": "macos-say",
+    "voice": "Eddy (English (US))",
+    "duration_seconds": 9.79
+  },
   "local_build": {
     "status": "passed",
     "routes": [

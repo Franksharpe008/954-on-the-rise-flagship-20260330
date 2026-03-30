@@ -2,10 +2,11 @@
   {
     "speaker": "magnus",
     "slug": "intro-voice",
-    "engine": "xtts",
+    "engine": "macos-say",
+    "voice": "Eddy (English (US))",
     "wav": "/media/voice/intro-voice.wav",
     "mp3": "/media/voice/intro-voice.mp3",
-    "duration_seconds": 10.2,
-    "script": "Welcome to 954 On The Rise. Five records. Premium motion. Press play and move through the world."
+    "duration_seconds": 9.79,
+    "script": "Welcome to 954 On The Rise. Five records. Premium motion. Press play, move through the world, and let the vault open up."
   }
 ]
