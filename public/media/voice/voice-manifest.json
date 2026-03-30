@@ -1,0 +1,11 @@
+[
+  {
+    "speaker": "magnus",
+    "slug": "intro-voice",
+    "engine": "xtts",
+    "wav": "/media/voice/intro-voice.wav",
+    "mp3": "/media/voice/intro-voice.mp3",
+    "duration_seconds": 10.2,
+    "script": "Welcome to 954 On The Rise. Five records. Premium motion. Press play and move through the world."
+  }
+]
